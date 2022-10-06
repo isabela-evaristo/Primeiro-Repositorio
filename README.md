@@ -1,8 +1,10 @@
 MUSICA
+
 A música, de acordo com alguns pesquisodares, é uma modalidade que desenvolve a mente humana, traz equilibrio,
 um estado agradável de bem-estar,facilita a concentração e o desenvolvimento do raciocínio, em especial questões reflexivas voltadas para o pensamento!
 
 FREQUENCIA SONORA
+
 Como ela age, no nosso cerébro?
 
 Quando o som entra pelos ouvidos, outraas áreas do cérebro também são ativadas: movimento, memória, atenção, emoção.
