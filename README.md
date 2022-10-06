@@ -5,7 +5,7 @@
    <meta charset=¨UTF-8¨>
  
  <body>
-   <h1 style="text-align: cebter">MÚSICA</h1>
+   <h1 style="text-align: center">MÚSICA</h1>
 
    <p>A <strong>música</strong>, de acordo com alguns pesquisodares, é uma modalidade que desenvolve a mente humana, traz equilíbrio,
     um estado agradável de bem-estar,facilita a concentração e o desenvolvimento do raciocínio, em especial questões reflexivas voltadas para o pensamento!</p>
