@@ -1,11 +1,11 @@
 <h1>MUSICA</h1>
 
-<p>A música, de acordo com alguns pesquisodares, é uma modalidade que desenvolve a mente humana, traz equilibrio,
+<p>A <strong>música</strong>, de acordo com alguns pesquisodares, é uma modalidade que desenvolve a mente humana, traz equilibrio,
 um estado agradável de bem-estar,facilita a concentração e o desenvolvimento do raciocínio, em especial questões reflexivas voltadas para o pensamento!</p>
 
 <h1>FREQUENCIA SONORA</h1>
 
-<p>Como ela age, no nosso cerébro?</p>
+<p><em>Como ela age, no nosso cerébro?</em></p>
 
 <p>Quando o som entra pelos ouvidos, outraas áreas do cérebro também são ativadas: movimento, memória, atenção, emoção.</p>
 <p>Diversos estudos já mostraram que a música pode ter efeitos positivos no cérebro liberando dopamina, neurotransmissor mais conhecido como ¨hormônio do prazer¨.</p>
